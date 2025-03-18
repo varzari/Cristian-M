@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página Web</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi Página Web</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#seccion1">Sección 1</a></li>
+            <li><a href="#seccion2">Sección 2</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section id="seccion1">
+        <h2>Sección 1</h2>
+        <p>Esta es la primera sección de mi página web.</p>
+    </section>
+
+    <section id="seccion2">
+        <h2>Sección 2</h2>
+        <p>Esta es la segunda sección de mi página web.</p>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si quieres contactarme, envíame un correo a <a href="mailto:correo@example.com">correo@example.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Mi Página Web</p>
+    </footer>
+</body>
+</html>
